@@ -1,0 +1,12 @@
+{
+    "wallet_id": "0xUser_Local",
+    "nickname": "Operador",
+    "created_at": "2025-11-20T08:04:44.763325",
+    "last_activity": "2025-11-20T08:05:24.957429",
+    "is_locked": false,
+    "lock_until": null,
+    "tool_level": 1,
+    "blocks_mined": 0,
+    "_sng_balance": 2.2575000000000003,
+    "class_type": "Reaper"
+}

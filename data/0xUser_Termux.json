@@ -1,0 +1,12 @@
+{
+    "wallet_id": "0xUser_Termux",
+    "nickname": "Operador",
+    "created_at": "2025-11-20T08:18:15.293711",
+    "last_activity": "2025-12-13T21:07:49.779210",
+    "is_locked": false,
+    "lock_until": null,
+    "tool_level": 1,
+    "blocks_mined": 0,
+    "_sng_balance": 30.328200000000038,
+    "class_type": "Reaper"
+}

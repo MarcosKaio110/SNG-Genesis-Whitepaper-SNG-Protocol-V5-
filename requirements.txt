@@ -1,0 +1,5 @@
+textual
+pydantic
+rich
+aiohttp
+requests
